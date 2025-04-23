@@ -6,4 +6,4 @@ services:
     ports:
       - "8000:80"
     volumes:
-      - ./app:/usr/share/nginx/html:ro
+      - ./kelompokfix:/usr/share/nginx/html:ro
